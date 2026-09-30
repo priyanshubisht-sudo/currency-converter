@@ -21,9 +21,9 @@ The application provides a clean and intuitive interface with currency selection
 
 ## Screenshots
 
-### USD to INR
+### INR to PKR
 
-![USD to INR Conversion](./screenshots/usd-to-inr.png)
+![INR to PKR Conversion](./screenshots/usd-to-inr.png)
 
 ## Tech Stack
 
@@ -63,8 +63,6 @@ currency-converter/
 │   └── index.css
 │
 ├── screenshots/
-│   ├── usd-to-inr.png
-│   ├── conversion-result.png
 │   └── inr-to-pkr.png
 │
 ├── package.json
